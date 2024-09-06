@@ -26,7 +26,7 @@ const Header = () => {
             </div>
           </nav>
 
-          <Button href="#login" >
+          <Button >
               Login
           </Button>
         </div>
